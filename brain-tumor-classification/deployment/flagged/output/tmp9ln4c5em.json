@@ -1,0 +1,1 @@
+{"label": "pituitary_tumor", "confidences": [{"label": "pituitary_tumor", "confidence": 0.6691346764564514}, {"label": "no_tumor", "confidence": 0.2280525118112564}, {"label": "meningioma_tumor", "confidence": 0.08587031811475754}, {"label": "glioma_tumor", "confidence": 0.016942566260695457}]}
